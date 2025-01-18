@@ -15,4 +15,4 @@ cat $(pwd)/.ssh/id_ed25519.pub
 echo Use machine name shown below...
 hostname
 cd /home/$username/linux-mint-xfce-setup/
-bash git.sh
+bash tooling.sh
