@@ -1,1 +1,1 @@
-apt-get install nvim
+apt-get install neovim

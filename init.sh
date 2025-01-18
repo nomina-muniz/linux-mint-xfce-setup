@@ -3,6 +3,7 @@ apt update -y
 apt upgrade -y
 apt autoremove -y
 apt install software-properties-common
+flatpak install flathub com.bitwarden.desktop
 cd ..
 mkdir .ssh
 read -p "Type in username:" username
